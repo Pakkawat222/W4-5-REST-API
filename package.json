@@ -1,0 +1,19 @@
+{
+  "name": "w4-5-rest-api",
+  "version": "1.0.0",
+  "description": "DTI 201",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pakkawat222/W4-5-REST-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pakkawat222/W4-5-REST-API/issues"
+  },
+  "homepage": "https://github.com/Pakkawat222/W4-5-REST-API#readme"
+}
